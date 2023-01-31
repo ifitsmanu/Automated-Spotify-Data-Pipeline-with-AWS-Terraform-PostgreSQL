@@ -57,7 +57,7 @@ Any 'TODO' tags in the project.
 - Upload as a package
 
 <a name="codequalityimprovements"></a>
-##### Code Quality Imrpovements
+##### Code Quality Improvements
 
 <a name="howtocontribute"></a>
 ## How to Contribute 
