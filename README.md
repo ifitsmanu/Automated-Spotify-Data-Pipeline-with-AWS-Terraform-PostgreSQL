@@ -17,6 +17,8 @@
 Welcome to Spotify Analysis. 
 Enjoy learning more about the music you listen to and your personal listening habits.
 
+![spotify_analysis drawio](https://user-images.githubusercontent.com/105034096/215862052-7c7b1a9d-6610-4ff4-84b7-1f2c781997c0.png)
+
 
 <a name="installation"></a>
 ## Installation 
